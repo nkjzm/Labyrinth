@@ -3,6 +3,12 @@ Labyrinth
 
 コリドールをベースにしたリアルタイムタワーディフェンスゲームです。
 
+## About
+
+- プロジェクトについての要望や不明点などあれば[Issue](https://github.com/nkjzm/Labyrinth/issues)までお願いします。(**大歓迎です**)
+- プロジェクトやゲームについての情報は[Wiki](https://github.com/nkjzm/Labyrinth/wiki)を参照してください。
+- プロジェクトの進捗については[Projects](https://github.com/nkjzm/Labyrinth/projects)を参照してください。
+
 ## License
 
 このプロジェクトの権利は以下のページに準拠しています。  
